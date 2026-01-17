@@ -1,0 +1,37 @@
+# Arquivos gerados pelo script
+consolidado.txt
+
+# Arquivos HTML de exemplo (podem conter dados sensíveis)
+arquivos/*.html
+arquivos/*.css
+arquivos/*.txt
+arquivos/*[0-9]
+arquivos/*.download
+arquivos/*.png
+arquivos/*.jpg
+arquivos/*.jpeg
+arquivos/*.svg
+
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Ambientes virtuais
+.venv/
+venv/
+ENV/
+env/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Sistema
+.DS_Store
+Thumbs.db
